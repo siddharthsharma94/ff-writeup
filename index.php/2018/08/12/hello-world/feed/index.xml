@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comments on: Preseason Discussion</title>
-	<atom:link href="/index.php/2018/08/12/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/index.php/2018/08/12/hello-world/</link>
+	<atom:link href="/ff-writeup/index.php/2018/08/12/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/ff-writeup/index.php/2018/08/12/hello-world/</link>
 	<description>Yes, I put Baker in the header. It's my damn site I'll do what I want.</description>
-	<lastBuildDate>Mon, 13 Aug 2018 00:51:16 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Aug 2018 01:25:42 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
