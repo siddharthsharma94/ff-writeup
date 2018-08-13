@@ -3846,7 +3846,7 @@ p > object:only-child {
 		width: 36%;
 	}
 
-	.blog:not(.has-sidebar) #primary article,
+	.blog:not(.has-sidebar):not(.jl-one-item) #primary article,
 	.archive:not(.page-one-column):not(.has-sidebar) #primary article,
 	.search:not(.has-sidebar) #primary article,
 	.error404:not(.has-sidebar) #primary .page-content,
